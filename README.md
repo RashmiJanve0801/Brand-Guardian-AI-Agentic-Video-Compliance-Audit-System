@@ -3,12 +3,12 @@
 
 ## Features
 
-- 🎬 **Multimodal Analysis** — Audits both speech transcripts and on-screen OCR text
-- 📋 **RAG-Powered Compliance** — Retrieves FTC and YouTube Ad rules semantically via Azure AI Search
-- ⚖️ **Violation Classification** — Categorizes issues by type (e.g. FTC Disclosure) and severity (CRITICAL / WARNING)
-- 🔁 **Stateful LangGraph Workflow** — Typed `VideoAuditState` with error-resilient node fallbacks
-- 🚀 **Production-Ready API** — FastAPI with Pydantic validation and session-based tracking
-- 📡 **Full Observability** — LangSmith agent tracing + Azure Monitor OpenTelemetry
+- **Multimodal Analysis** — Audits both speech transcripts and on-screen OCR text
+- **RAG-Powered Compliance** — Retrieves FTC and YouTube Ad rules semantically via Azure AI Search
+- **Violation Classification** — Categorizes issues by type (e.g. FTC Disclosure) and severity (CRITICAL / WARNING)
+- **Stateful LangGraph Workflow** — Typed `VideoAuditState` with error-resilient node fallbacks
+- **Production-Ready API** — FastAPI with Pydantic validation and session-based tracking
+- **Full Observability** — LangSmith agent tracing + Azure Monitor OpenTelemetry
 
 ---
 
@@ -26,5 +26,6 @@
 | **Infra** | Docker, python-dotenv |
 
 ---
+
 
 
