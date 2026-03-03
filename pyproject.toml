@@ -1,0 +1,32 @@
+[project]
+name = "complianceqapipeline"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "azure-identity>=1.25.1",
+    "azure-identity-broker>=1.3.0",
+    "azure-monitor-opentelemetry>=1.8.5",
+    "azure-search-documents>=11.6.0",
+    "azure-storage-blob>=12.28.0",
+    "fastapi>=0.128.0",
+    "firecrawl-py>=4.13.4",
+    "langchain>=1.2.7",
+    "langchain-community>=0.4.1",
+    "langchain-openai>=1.1.7",
+    "langgraph>=1.0.7",
+    "langsmith>=0.6.6",
+    "opentelemetry-instrumentation-fastapi>=0.60b0",
+    "pandas>=2.3.3",
+    "psycopg2-binary>=2.9.11",
+    "pydantic>=2.12.5",
+    "pypdf>=6.6.2",
+    "python-dotenv>=1.2.1",
+    "redis>=7.1.0",
+    "requests>=2.32.5",
+    "sqlalchemy>=2.0.46",
+    "streamlit>=1.53.1",
+    "uvicorn>=0.40.0",
+    "yt-dlp>=2025.12.8",
+]
