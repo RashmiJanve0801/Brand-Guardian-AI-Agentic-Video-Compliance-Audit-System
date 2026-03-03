@@ -1,7 +1,7 @@
 
 ---
 
-## ✨ Features
+## Features
 
 - 🎬 **Multimodal Analysis** — Audits both speech transcripts and on-screen OCR text
 - 📋 **RAG-Powered Compliance** — Retrieves FTC and YouTube Ad rules semantically via Azure AI Search
@@ -12,7 +12,7 @@
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 | Layer | Technologies |
 |---|---|
@@ -27,5 +27,4 @@
 
 ---
 
-## 📁 Project Structure
 
